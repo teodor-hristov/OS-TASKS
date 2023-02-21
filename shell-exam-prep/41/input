@@ -1,0 +1,4 @@
+# route description
+from = Sofia
+to = Varna # my favourite city!
+type = t2_1
